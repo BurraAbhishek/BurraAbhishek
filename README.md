@@ -38,7 +38,3 @@ https://www.linkedin.com/in/abhishek-burra-3744b2202
 ### Email
 
 burra.abhishek1@gmail.com
-
-### Phone
-
-+91 9884043460
