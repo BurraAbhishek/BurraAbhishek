@@ -29,7 +29,7 @@ I first came to know about developing mobile applications when I was attending a
 
 The first course which I was taught during my undergraduation was Python programming. Soon, I began to use Python for almost everything. I'm currently learning Artificial Intelligence, Machine Learning, Data Science and Large-Scale Data Processing using Hadoop and MapReduce.
 
-## Contact:
+## Contact me:
 
 ### LinkedIn
 
