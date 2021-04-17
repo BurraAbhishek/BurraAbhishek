@@ -17,17 +17,23 @@ Here are some ideas to get you started:
 
 ## Skills:
 
-### Web Development
+### Web Development 
 
-I started learning to build websites when I was 14 years old because I wanted to play my favourite childhood video games. Over time, I have learnt to design and develop web applications.
+I started learning to build websites when I was 14 years old because I wanted to play my favourite video games. Over time, I have learnt to design and develop web applications.
 
 ### Mobile App Development
 
-I first came to know about developing mobile applications when I was attending a student developer workshop at university. I wanted to develop my own mobile apps over time. During the coronavirus lockdown, I enrolled in the course on "Introduction to Flutter Development" by @angelabauer of the London App Brewery. That was when I first came to know about Flutter, Dart, Android Studio, Virtualization, Git and GitHub. Over time, I learnt to design and develop beautiful mobile applications.
+I write code for Mobile Apps using [Flutter](https://flutter.dev/).
 
 ### Python Programming
 
-The first course which I was taught during my undergraduation was Python programming. Soon, I began to use Python for almost everything. I'm currently learning Artificial Intelligence, Machine Learning, Data Science and Large-Scale Data Processing using Hadoop and MapReduce.
+The first course which I was taught as an undergraduate was Python programming. Soon, I began to use Python for almost everything. I'm currently learning Artificial Intelligence, Machine Learning, Data Science, and Large-Scale Data Processing using Hadoop and MapReduce.
+
+Feeling bored? Want to play a short game? Visit [my Hand Cricket repository](https://github.com/burraabhishek/python-hand-cricket) (This game requires support for Python 3.5+).
+
+### Eating chocolate cakes
+
+Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious food! We can eat chocolate cakes and write code together! Want to contact me? See below.
 
 ## Contact me:
 
