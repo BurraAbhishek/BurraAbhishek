@@ -40,7 +40,7 @@ Feeling bored? Want to play a short game? Visit [my Hand Cricket repository](htt
 
 ### Eating chocolate cakes
 
-Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious food! We can eat chocolate cakes and write code together! Want to contact me? See below.
+Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious food! We can eat chocolate cakes and write code together! Want to contact me? Go to the [contact-me](https://github.com/burraabhishek#contact-me) section.
 
 ## Technologies and Tools:
 This section is under construction. Meanwhile, you may want to see my skills. Check my LinkedIn profile to know more...
