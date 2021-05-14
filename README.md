@@ -20,7 +20,7 @@ This section is intended to help you navigate quickly to what you want to see.
 - [Skills](https://github.com/burraabhishek#skills)
 - [Technologies and Tools](https://github.com/burraabhishek#technologies-and-tools)
 - [Contact Me](https://github.com/burraabhishek#contact-me)
-- [Repositories and Contributions](https://github.com/burraabhishek#repositories-and-contributions:)
+- [Repositories and Contributions](https://github.com/burraabhishek#repositories-and-contributions)
 
 ## Skills:
 
@@ -45,7 +45,9 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 ## Technologies and Tools:
 This section is under construction. Meanwhile, you may want to see my skills. Check my LinkedIn profile to know more...
 ### Programming Languages:
+<!-- HTML5 --><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height=64 width=64>
 ### Tools and Frameworks:
+
 ### Code Editors:
 
 ## Contact me:
