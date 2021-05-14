@@ -43,7 +43,6 @@ Feeling bored? Want to play a short game? Visit [my Hand Cricket repository](htt
 Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious food! We can eat chocolate cakes and write code together! Want to contact me? Go to the [contact-me](https://github.com/burraabhishek#contact-me) section.
 
 ## Technologies and Tools:
-This section is under construction. Meanwhile, you may want to see my skills. Check my LinkedIn profile to know more...
 ### Programming Languages:
 
 <!-- HTML5 --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HyperText Markup Language, the standard markup language for webpages" alt="HTML5" height=64 width=64 align="left">
