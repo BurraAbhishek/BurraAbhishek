@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Navigation pane
+This section is intended to help you navigate quickly to what you want to see.
+- [Skills](https://github.com/burraabhishek#skills)
+- [Technologies and Tools](https://github.com/burraabhishek#technologies-and-tools)
+- [Contact Me](https://github.com/burraabhishek#contact-me)
+- [Repositories and Contributions](https://github.com/burraabhishek#repositories-and-contributions:)
+
 ## Skills:
 
 ### Web Development 
@@ -35,6 +42,12 @@ Feeling bored? Want to play a short game? Visit [my Hand Cricket repository](htt
 
 Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious food! We can eat chocolate cakes and write code together! Want to contact me? See below.
 
+## Technologies and Tools:
+This section is under construction. Meanwhile, you may want to see my skills. Check my LinkedIn profile to know more...
+### Programming Languages:
+### Tools and Frameworks:
+### Code Editors:
+
 ## Contact me:
 
 ### LinkedIn
@@ -44,3 +57,5 @@ https://www.linkedin.com/in/abhishek-burra-3744b2202
 ### Email
 
 burra.abhishek1@gmail.com
+
+## Repositories and Contributions
