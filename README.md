@@ -57,28 +57,21 @@ This section is under construction. Meanwhile, you may want to see my skills. Ch
 <!-- C --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/c/c-original.svg" title="The C programming language" alt="C" height=64 width=64 align="left">
 <!-- C++ --><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++, an improvement to the C language" alt="C++" height=64 width=64 align="left">
 <!-- Python --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/python/python-original-wordmark.svg" title="The Python programming language" alt="Python" height=64 width=64 align="left">
-<!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64 align="left">
-
-<br />
-<br />
+<!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64>
 
 #### Currently learning:
 <!-- Java --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/java/java-original-wordmark.svg" title="The Java programming language" alt="Java" height=64 width=64 align="left">
-<!-- Scala --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="The Scala programming language" alt="Scala" height=64 width=64 align="left">
-
-<br />
-<br />
+<!-- Scala --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="The Scala programming language" alt="Scala" height=64 width=64>
 
 ### Tools and Frameworks:
 
 <!-- Flutter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter, an open-source UI Software Development Kit to write apps for Android, iOS and the web" alt="Flutter" height=64 width=64 align="left">
 <!-- Git --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git, a free and open-source version control system" alt="Git" height=64 width=64 align="left">
-<!-- Jupyter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter (Notebook), an open-source, web-based interactive development environment to create and share live code, graphics, maps, plots and visualizations." alt="Jupyter (Notebook)" height=64 width=64 align="left">
-<br />
-<br />
+<!-- Jupyter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter (Notebook), an open-source, web-based interactive development environment to create and share live code, graphics, maps, plots and visualizations." alt="Jupyter (Notebook)" height=64 width=64>
+
 
 #### Currently learning:
-<!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
+<!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64>
 
 <br />
 <br />
