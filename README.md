@@ -66,11 +66,13 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 
 <!-- Flutter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter, an open-source UI Software Development Kit to write apps for Android, iOS and the web" alt="Flutter" height=64 width=64 align="left">
 <!-- Git --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git, a free and open-source version control system" alt="Git" height=64 width=64 align="left">
-<!-- Jupyter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter (Notebook), an open-source, web-based interactive development environment to create and share live code, graphics, maps, plots and visualizations." alt="Jupyter (Notebook)" height=64 width=64>
+<!-- Jupyter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter (Notebook), an open-source, web-based interactive development environment to create and share live code, graphics, maps, plots and visualizations." alt="Jupyter (Notebook)" height=64 width=64 align="left">
+<!-- Arduino --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino, an open-source electronics platform based on easy-to-use hardware and software." alt="Arduino" height=64 width=64> 
 
 
 #### Currently learning:
-<!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64>
+<!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
+<!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64>
 
 <br />
 <br />
