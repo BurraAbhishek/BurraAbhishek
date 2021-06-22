@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Abhishek
+# Hi there! 👋 I'm Abhishek.
 
 <!--
 **BurraAbhishek/BurraAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,10 +56,10 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 <!-- C --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/c/c-original.svg" title="The C programming language" alt="C" height=64 width=64 align="left">
 <!-- C++ --><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++, an improvement to the C language" alt="C++" height=64 width=64 align="left">
 <!-- Python --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/python/python-original-wordmark.svg" title="The Python programming language" alt="Python" height=64 width=64 align="left">
-<!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64>
+<!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64 align="left">
+<!-- Java --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/java/java-original-wordmark.svg" title="The Java programming language" alt="Java" height=64 width=64>
 
 #### Currently learning:
-<!-- Java --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/java/java-original-wordmark.svg" title="The Java programming language" alt="Java" height=64 width=64 align="left">
 <!-- Scala --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="The Scala programming language" alt="Scala" height=64 width=64>
 
 ### Tools and Frameworks:
@@ -72,7 +72,8 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 
 #### Currently learning:
 <!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
-<!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64>
+<!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64 align="left">
+<!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64>
 
 <br />
 <br />
