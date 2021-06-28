@@ -80,9 +80,7 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 
 ## Contact me:
 
-### LinkedIn
-
-https://www.linkedin.com/in/abhishek-burra-3744b2202
+[<img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/profile_link/LinkedIn_TM_icon.png">](https://www.linkedin.com/in/abhishek-burra-3744b2202)
 
 ### Email
 
