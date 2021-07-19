@@ -67,7 +67,8 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 <!-- Flutter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter, an open-source UI Software Development Kit to write apps for Android, iOS and the web" alt="Flutter" height=64 width=64 align="left">
 <!-- Git --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git, a free and open-source version control system" alt="Git" height=64 width=64 align="left">
 <!-- Jupyter --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter (Notebook), an open-source, web-based interactive development environment to create and share live code, graphics, maps, plots and visualizations." alt="Jupyter (Notebook)" height=64 width=64 align="left">
-<!-- Arduino --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino, an open-source electronics platform based on easy-to-use hardware and software." alt="Arduino" height=64 width=64> 
+<!-- Arduino --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino, an open-source electronics platform based on easy-to-use hardware and software." alt="Arduino" height=64 width=64 align="left"> 
+<!-- Apache Hadoop --><img src="https://hadoop.apache.org/elephant.png" title="Apache Hadoop, software framework for big data and its processing using the MapReduce Framework." alt="Apache Hadoop" height=64 width=64> 
 
 
 #### Currently learning:
@@ -82,8 +83,8 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 
 [<img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/profile_link/LinkedIn_TM_icon.png">](https://www.linkedin.com/in/abhishek-burra-3744b2202)
 
-### Email
+[<img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/mail_reference/mail-icon_reference.png" height=128 width=192>](mailto:burra.abhishek1@gmail.com)
 
-burra.abhishek1@gmail.com
+(Hover over the email icon to view my email address. The link which appears on the bottom-left corner of your web browser is in the format `mailto:emailaddress`)
 
 ## Repositories and Contributions
