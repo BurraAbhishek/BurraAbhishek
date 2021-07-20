@@ -34,7 +34,7 @@ I write code for Mobile Apps using [Flutter](https://flutter.dev/).
 
 ### Python Programming
 
-The first course which I was taught as an undergraduate was Python programming. Soon, I began to use Python for almost everything. I'm currently learning Artificial Intelligence, Machine Learning, Data Science, and Large-Scale Data Processing using Hadoop and MapReduce.
+The first course which I was taught as an undergraduate was Python programming. Soon, I began to use Python for almost everything.
 
 Feeling bored? Want to play a short game? Visit [my Hand Cricket repository](https://github.com/burraabhishek/python-hand-cricket) (This game requires support for Python 3.5+).
 
