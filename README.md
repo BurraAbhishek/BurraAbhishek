@@ -60,6 +60,7 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 <!-- Java --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/java/java-original-wordmark.svg" title="The Java programming language" alt="Java" height=64 width=64>
 
 #### Currently learning:
+<!-- Rust --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/rust/rust-plain.svg" title="The Rust programming language" alt="Rust" height=64 width=64 align="left">
 <!-- Scala --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="The Scala programming language" alt="Scala" height=64 width=64>
 
 ### Tools and Frameworks:
