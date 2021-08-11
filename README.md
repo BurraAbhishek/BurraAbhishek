@@ -17,32 +17,21 @@ Here are some ideas to get you started:
 
 ## Navigation pane
 This section is intended to help you navigate quickly to what you want to see.
-- [Skills](https://github.com/burraabhishek#skills)
+- [Some fun facts about me](https://github.com/burraabhishek#some-fun-facts-about-me)
 - [Technologies and Tools](https://github.com/burraabhishek#technologies-and-tools)
 - [Contact Me](https://github.com/burraabhishek#contact-me)
 - [Repositories and Contributions](https://github.com/burraabhishek#repositories-and-contributions)
 
-## Skills:
+## Some fun facts about me:
 
-### Web Development 
+### A foodie who loves to eat chocolate cakes
 
-I started learning to build websites when I was 14 years old because I wanted to play my favourite video games. Over time, I have learnt to design and develop web applications.
-
-### Mobile App Development
-
-I write code for Mobile Apps using [Flutter](https://flutter.dev/).
-
-### Python Programming
-
-The first course which I was taught as an undergraduate was Python programming. Soon, I began to use Python for almost everything.
-
-Feeling bored? Want to play a short game? Visit [my Hand Cricket repository](https://github.com/burraabhishek/python-hand-cricket) (This game requires support for Python 3.5+).
-
-### Eating chocolate cakes
-
-Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious food! We can eat chocolate cakes and write code together! Want to contact me? Go to the [contact-me](https://github.com/burraabhishek#contact-me) section.
+Who doesn't love a chocolate cake? We all do. In fact, I love to write code while eating such delicious chocolate cakes! We can eat chocolate cakes and write code together! Want to contact me? Go to the [contact-me](https://github.com/burraabhishek#contact-me) section.
 
 ## Technologies and Tools:
+
+Now for the technical stuff...
+
 ### Programming Languages:
 
 <!-- HTML5 --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HyperText Markup Language, the standard markup language for webpages" alt="HTML5" height=64 width=64 align="left">
@@ -75,7 +64,8 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 #### Currently learning:
 <!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
 <!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64 align="left">
-<!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64>
+<!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64 align="left">
+<!-- Django --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/django/django-original.svg" title="Django, a free and open-source high-level Python web framework." alt="Docker" height=64 width=64>
 
 <br />
 <br />
@@ -86,6 +76,6 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 
 [<img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/mail_reference/mail-icon_reference.png" height=128 width=192>](mailto:burra.abhishek1@gmail.com)
 
-(Hover over the email icon to view my email address. The link which appears on the bottom-left corner of your web browser is in the format `mailto:emailaddress`)
+(Hover over the email icon to view my email address. The link which appears on the bottom-left corner of your web browser when you hover over the icon (or long press if you are using a mobile phone) is in the format `mailto:emailaddress`. Clicking the icon will directly open your mailing application.)
 
 ## Repositories and Contributions
