@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Navigation pane
-This section is intended to help you navigate quickly to what you want to see.
+Click on any of the links to navigate to the section which you want to see. These links go to the headings below.
 - [Some fun facts about me](https://github.com/burraabhishek#some-fun-facts-about-me)
 - [Technologies and Tools](https://github.com/burraabhishek#technologies-and-tools)
 - [Contact Me](https://github.com/burraabhishek#contact-me)
@@ -65,7 +65,7 @@ Now for the technical stuff...
 <!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
 <!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64 align="left">
 <!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64 align="left">
-<!-- Django --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/django/django-original.svg" title="Django, a free and open-source high-level Python web framework." alt="Docker" height=64 width=64>
+<!-- Django --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/django/django-original.svg" title="Django, a free and open-source high-level Python web framework." alt="Django" height=64 width=64>
 
 <br />
 <br />
@@ -76,6 +76,6 @@ Now for the technical stuff...
 
 [<img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/mail_reference/mail-icon_reference.png" height=128 width=192>](mailto:burra.abhishek1@gmail.com)
 
-(Hover over the email icon to view my email address. The link which appears on the bottom-left corner of your web browser when you hover over the icon (or long press if you are using a mobile phone) is in the format `mailto:emailaddress`. Clicking the icon will directly open your mailing application.)
+(Hover over the email icon to view my email address. The link which appears is in the format `mailto:emailaddress`. Clicking the icon will open your mail application.)
 
 ## Repositories and Contributions
