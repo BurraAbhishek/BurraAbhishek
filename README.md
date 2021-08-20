@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Abhishek.
+# Hi there! 👋 Welcome to my GitHub profile!
 
 <!--
 **BurraAbhishek/BurraAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +30,7 @@ Who doesn't love a chocolate cake? We all do. In fact, I love to write code whil
 
 ## Technologies and Tools:
 
-Now for the technical stuff...
-
+Now for the technical stuff... 
 ### Programming Languages:
 
 <!-- HTML5 --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HyperText Markup Language, the standard markup language for webpages" alt="HTML5" height=64 width=64 align="left">
@@ -60,6 +59,7 @@ Now for the technical stuff...
 <!-- Arduino --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino, an open-source electronics platform based on easy-to-use hardware and software." alt="Arduino" height=64 width=64 align="left"> 
 <!-- Apache Hadoop --><img src="https://hadoop.apache.org/elephant.png" title="Apache Hadoop, software framework for big data and its processing using the MapReduce Framework." alt="Apache Hadoop" height=64 width=64 align="left">
 <!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
+<!-- Redis --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis, an in-memory data structure store, used as a database, cache and message broker" alt="Redis" height=64 width=64 align="left">
 <!-- Django --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/django/django-original.svg" title="Django, a free and open-source high-level Python web framework." alt="Django" height=64 width=64>
 
 
