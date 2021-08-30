@@ -1,4 +1,4 @@
-# Hi there! 👋 Welcome to my GitHub profile!
+# Hi there! 👋
 
 <!--
 **BurraAbhishek/BurraAbhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,7 +65,8 @@ Now for the technical stuff...
 
 #### Currently learning:
 <!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64 align="left">
-<!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64>
+<!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64 align="left">
+<!-- Play Framework --><img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/playframework/Play_Framework_logo.svg" title="Play Framework." alt="Play Framework" height=64 width=64>
 
 <br />
 <br />
