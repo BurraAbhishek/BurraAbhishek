@@ -20,7 +20,7 @@ Click on any of the links to navigate to the section which you want to see. Thes
 - [Some fun facts about me](https://github.com/burraabhishek#some-fun-facts-about-me)
 - [Technologies and Tools](https://github.com/burraabhishek#technologies-and-tools)
 - [Contact Me](https://github.com/burraabhishek#contact-me)
-- [Repositories and Contributions](https://github.com/burraabhishek#repositories-and-contributions)
+- [Repositories and Contributions (Skips this README)](https://github.com/burraabhishek#repositories-and-contributions)
 
 ## Some fun facts about me:
 
@@ -66,7 +66,8 @@ Now for the technical stuff...
 #### Currently learning:
 <!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64 align="left">
 <!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64 align="left">
-<!-- Play Framework --><img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/playframework/Play_Framework_logo.svg" title="Play Framework." alt="Play Framework" height=64 width=64>
+<!-- Play Framework --><img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/playframework/Play_Framework_logo.svg" title="Play Framework." alt="Play Framework" height=64 width=64 align="left">
+<!-- Flask --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask, a free and open-source Python web microframework." alt="Flask" height=64 width=64>
 
 <br />
 <br />
