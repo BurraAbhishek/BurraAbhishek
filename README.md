@@ -36,6 +36,7 @@ Now for the technical stuff...
 <!-- HTML5 --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HyperText Markup Language, the standard markup language for webpages" alt="HTML5" height=64 width=64 align="left">
 <!-- CSS3 --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Cascading Style Sheets, the style sheet language to design webpages" alt="CSS3" height=64 width=64 align="left">
 <!-- JS --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript, the core web-programming language" alt="JavaScript" height=64 width=64 align="left">
+<!-- TS --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript, a strict syntactical superset of Javascript used to build applications" alt="TypeScript" height=64 width=64 align="left">
 <!-- PHP --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/php/php-original.svg" title="PHP Hypertext Preprocessor, connecting a webpage to a webserver" alt="PHP" height=64 width=64 align="left">
 <!-- MySQL --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL, a Structured Query Language (Database Management)" alt="MySQL" height=64 width=64 align="left">
 
@@ -46,6 +47,7 @@ Now for the technical stuff...
 <!-- Python --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/python/python-original-wordmark.svg" title="The Python programming language" alt="Python" height=64 width=64 align="left">
 <!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64 align="left">
 <!-- Java --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/java/java-original-wordmark.svg" title="The Java programming language" alt="Java" height=64 width=64>
+
 
 #### Currently learning:
 <!-- Rust --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/rust/rust-plain.svg" title="The Rust programming language" alt="Rust" height=64 width=64 align="left">
