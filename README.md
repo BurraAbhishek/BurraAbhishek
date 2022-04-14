@@ -45,13 +45,13 @@ Now for the technical stuff...
 <!-- C --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/c/c-original.svg" title="The C programming language" alt="C" height=64 width=64 align="left">
 <!-- C++ --><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" title="C++, an improvement to the C language" alt="C++" height=64 width=64 align="left">
 <!-- Python --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/python/python-original-wordmark.svg" title="The Python programming language" alt="Python" height=64 width=64 align="left">
-<!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64 align="left">
 <!-- Java --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/java/java-original-wordmark.svg" title="The Java programming language" alt="Java" height=64 width=64>
 
 
 #### Currently learning:
 <!-- Rust --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/rust/rust-plain.svg" title="The Rust programming language" alt="Rust" height=64 width=64 align="left">
-<!-- Scala --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="The Scala programming language" alt="Scala" height=64 width=64>
+<!-- Scala --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="The Scala programming language" alt="Scala" height=64 width=64 align="left">
+<!-- R --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/r/r-original.svg" title="The R programming language" alt="R" height=64 width=64>
 
 ### Tools and Frameworks:
 
@@ -62,14 +62,13 @@ Now for the technical stuff...
 <!-- Apache Hadoop --><img src="https://hadoop.apache.org/elephant.png" title="Apache Hadoop, software framework for big data and its processing using the MapReduce Framework." alt="Apache Hadoop" height=64 width=64 align="left">
 <!-- MongoDB --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB, a NoSQL document-oriented database program which uses JSON-like documents with optional schemas" alt="MongoDB" height=64 width=64 align="left">
 <!-- Redis --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis, an in-memory data structure store, used as a database, cache and message broker" alt="Redis" height=64 width=64 align="left">
-<!-- Django --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/django/django-original.svg" title="Django, a free and open-source high-level Python web framework." alt="Django" height=64 width=64>
-
+<!-- Django --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/django/django-original.svg" title="Django, a free and open-source high-level Python web framework." alt="Django" height=64 width=64 align="left">
+<!-- Flask --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask, a free and open-source Python web microframework." alt="Flask" height=64 width=64>
 
 #### Currently learning:
 <!-- TensorFlow --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow, an end-to-end open source platform for machine learning." alt="TensorFlow" height=64 width=64 align="left">
 <!-- Docker --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker, OS-level virtualization in containers." alt="Docker" height=64 width=64 align="left">
 <!-- Play Framework --><img src="https://github.com/BurraAbhishek/BurraAbhishek/blob/main/icons/playframework/Play_Framework_logo.svg" title="Play Framework." alt="Play Framework" height=64 width=64 align="left">
-<!-- Flask --><img src="https://github.com/BurraAbhishek/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask, a free and open-source Python web microframework." alt="Flask" height=64 width=64>
 
 <br />
 <br />
